@@ -1,1 +1,1 @@
-echo "John Rey Ancero" > git-basic.txt
+John Rey Ancero
